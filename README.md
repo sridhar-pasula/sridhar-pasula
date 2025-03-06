@@ -29,13 +29,19 @@ I was the **Star Performer of the Month** in my internship at HulkHire Tech! �
 
 ### 🛠️ Tech Stack  
 
-| Category        | Technologies |
-|---------------|-------------|
-| **Languages**   | Java, Python, JavaScript |
-| **Frontend**    | HTML, CSS, Bootstrap, ReactJS |
-| **Backend**     | Core Java, Advanced Java, Spring Boot, Hibernate |
-| **Databases**   | MySQL, PostgreSQL |
-| **Tools**       | IntelliJ IDEA, VS Code, Eclipse |
-| **Version Control** | Git, GitHub |
-| **Other Skills** | SQL, REST APIs, Microservices |
+| Category               | Technologies |
+|------------------------|-------------|
+| **Programming Languages** | Core Java, J2EE (JDBC, Servlets, JSP) |
+| **Frameworks & APIs**  | Spring Boot, Spring Boot JDBC, Microservices, RESTful APIs (JSON, Postman) |
+| **Frontend Basics**    | HTML, CSS, Bootstrap, JavaScript |
+| **Databases & Persistence** | MySQL (RDS), Hibernate (for database interaction) |
+| **Version Control & Build Tools** | Git, BitBucket, GitHub, SourceTree, Maven |
+| **IDEs & Application Servers** | Eclipse, IntelliJ IDEA, VS Code, DBeaver, Tomcat |
+| **Testing & Debugging** | JUnit, Mockito, Unit Testing, Mocking, Slf4J with Logback |
+| **Cloud & Deployment** | AWS (EC2, RDS, SecretManager) |
+| **Asynchronous Communication** | ActiveMQ |
+| **Agile & Project Management** | Scrum, Agile Development, SDLC, Jira |
+| **Additional Tools & Skills** | GSON, Lombok, Sonar Lint, MobaXterm, Performance Tuning, Design Patterns |
+| **Soft Skills** | Time Management, Problem Solving, Decision Making, Team Leading |
+
 
