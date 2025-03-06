@@ -47,7 +47,7 @@ I was the **Star Performer of the Month** in my internship at HulkHire Tech! ðŸš
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ðŸ”— Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/sridhar-pasula))
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sridhar-pasula)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridharmudiraj961@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sridhar-pasula-287686275/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhar-pasula-287686275/)
 
