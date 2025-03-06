@@ -24,3 +24,18 @@ He/Him
 
 ### ⚡ Fun fact  
 I was the **Star Performer of the Month** in my internship at HulkHire Tech! 🚀  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🛠️ Tech Stack  
+
+| Category        | Technologies |
+|---------------|-------------|
+| **Languages**   | Java, Python, JavaScript |
+| **Frontend**    | HTML, CSS, Bootstrap, ReactJS |
+| **Backend**     | Core Java, Advanced Java, Spring Boot, Hibernate |
+| **Databases**   | MySQL, PostgreSQL |
+| **Tools**       | IntelliJ IDEA, VS Code, Eclipse |
+| **Version Control** | Git, GitHub |
+| **Other Skills** | SQL, REST APIs, Microservices |
+
