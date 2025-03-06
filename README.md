@@ -15,10 +15,6 @@ I'm a passionate Java Developer with a strong foundation in backend and full-sta
 - Open-source contributions  
 - Backend and full-stack applications  
 
-### 📫 How to reach me  
-- LinkedIn: (https://www.linkedin.com/in/sridhar-pasula-287686275/)  
-- Email: [sridharmudiraj961@gmail.com](#)  
-
 ### 😄 Pronouns  
 He/Him  
 
